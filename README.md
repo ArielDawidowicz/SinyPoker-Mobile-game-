@@ -27,6 +27,7 @@ Best of 5 hands wins the game.
 
 ![image](https://user-images.githubusercontent.com/101277239/184648061-64f8f69d-34c6-4b89-822e-f7e54b9439e5.png)
 
-![1_AdobeExpress](https://user-images.githubusercontent.com/101277239/184649453-6859ec87-8778-47b7-b03d-2bfc6b05f3f6.gif)
+
+![1_AdobeExpress (1)](https://user-images.githubusercontent.com/101277239/184650092-b95381fd-5fb2-4076-88d3-d2f3e2474f23.gif)
 
 ![2_AdobeExpress](https://user-images.githubusercontent.com/101277239/184649477-fbc468c5-23d6-4033-bdbb-4c33310efe09.gif)
