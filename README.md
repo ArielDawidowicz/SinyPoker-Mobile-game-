@@ -33,9 +33,9 @@ Best of 5 hands wins the game.
 ![2_AdobeExpress](https://user-images.githubusercontent.com/101277239/184649477-fbc468c5-23d6-4033-bdbb-4c33310efe09.gif)
 
 
-#Download
+# Download
 The current version in only for android.
-Link to the APK file - > <a href="myFile.js" download>Click to Download</a> (not from play strore)
+Link to the APK file - > [Click here](https://github.com/ArielDawidowicz/SinyPoker-Mobile-game-/raw/main/SinyPokerV1.0.apk) (not from play strore)
 
 
-[download this](https://github.com/ArielDawidowicz/SinyPoker-Mobile-game-/raw/main/SinyPokerV1.0.apk)
+
