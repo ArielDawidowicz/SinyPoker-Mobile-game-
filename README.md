@@ -38,4 +38,4 @@ The current version in only for android.
 Link to the APK file - > <a href="myFile.js" download>Click to Download</a> (not from play strore)
 
 
-[download this](SinyPoker-Mobile-game-/SinyPokerV1.0.apk)
+[download this](/SinyPokerV1.0.apk)
