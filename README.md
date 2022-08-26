@@ -15,6 +15,7 @@ the catch is that the new card cannot be assigned in any hand:
 - first row is divided in the beginning.
 - than the cards can be put down in the second row than the third and so on.
 
+The fifth card is layed upside down such that you cant see your rival last card ( and vice versa)
 At the end, each player gets one card that can be swapped with any fifth card in any hand (the last row) the swap is not mandatory.
 
 Best of 5 hands wins the game.
