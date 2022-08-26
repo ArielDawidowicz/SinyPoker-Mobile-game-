@@ -1,24 +1,24 @@
 # SinyPoker-Mobile-game
 
 
-In this project i built a card game named Siny Poker, in Hebrew Siny is Chinese (but I found out that Chinese poker is already used ?!).
-I learned and use to play this game while i was traveling in central America, and then in my country with my friends.
-As a personal project i built this game including writing the code, algorithms logic and the design.
+In this project I built a card game called Siny Poker, in Hebrew Siny is Chinese (but I found out that Chinese poker is already being used?!).
+I learned and used to play this game while traveling in Central America, and then in my own country with my friends.
+As a personal project I built this game including writing the code, logic of the algorithms and the design.
 
-the rules are simple:
-the game is 1 VS 1, in this version is only offline vs the "PC".
+The rules are simple:
+The game is 1 VS 1, in this version it is offline only vs "PC".
 At the beginning each player gets 5 cards in one row.
-each card represents a poker hand.
-in each turn the player draws a card from the deck and puts the card in the hand to make a strong poker hand 
-(High card, pair, two pairs, 3 of a kind, straight, flush, full house, 4 of a kind, straight flush and royal flush).
-the catch is that the new card cannot be assigned in any hand:
-- first row is divided in the beginning.
-- than the cards can be put down in the second row than the third and so on.
+Each card represents a poker hand.
+Each turn the player draws a card from the deck and places the card in their hand to create a strong poker hand
+(high card, pair, two pairs, 3 of a kind, straight, flush, full house, 4 of a kind, straight and royal flush).
+The catch is that the new card cannot be assigned in every hand:
+- First line divided at the beginning.
+- The next cards can be placed in the second row then the third row and so on.
 
-The fifth card is layed upside down such that you cant see your rival last card ( and vice versa)
-At the end, each player gets one card that can be swapped with any fifth card in any hand (the last row) the swap is not mandatory.
+The fifth card is placed upside down so that you cannot see your opponent's last card (and vice versa)
+At the end, each player receives one card that can be exchanged with every fifth card in each hand (the last row). The exchange is not mandatory.
 
-Best of 5 hands wins the game.
+The best of 5 hands wins the game.
 
 # Screenshots
 
