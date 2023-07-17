@@ -1,24 +1,16 @@
 # SinyPoker-Mobile-game
 
+In this project, I developed a card game called Siny Poker. The name "Siny" is derived from the Chinese language, although it came to my attention that the term "Chinese poker" is already in use. Consequently, I decided to create my own variation of the game. My familiarity with Siny Poker originated during my travels in Central America, where I learned and played it with friends.
 
-In this project I built a card game called Siny Poker, in Hebrew Siny is Chinese (but I found out that Chinese poker is already being used?!).
-I learned and used to play this game while traveling in Central America, and then in my own country with my friends.
-As a personal project I built this game including writing the code, logic of the algorithms and the design.
+As a personal endeavor, I undertook the task of constructing this game from scratch. This involved the implementation of the game's logic, algorithms, and visual design, as well as coding its functionalities.
 
-The rules are simple:
-The game is 1 VS 1, in this version it is offline only vs "PC".
-At the beginning each player gets 5 cards in one row.
-Each card represents a poker hand.
-Each turn the player draws a card from the deck and places the card in their hand to create a strong poker hand
-(high card, pair, two pairs, 3 of a kind, straight, flush, full house, 4 of a kind, straight and royal flush).
-The catch is that the new card cannot be assigned in every hand:
-- First line divided at the beginning.
-- The next cards can be placed in the second row then the third row and so on.
+The rules of Siny Poker are straightforward. The game is designed for one player to compete against a computer-controlled opponent, and it is exclusively available in an offline format. At the commencement of the game, each player is dealt a row of five cards. Each card represents a specific poker hand.
 
-The fifth card is placed upside down so that you cannot see your opponent's last card (and vice versa)
-At the end, each player receives one card that can be exchanged with every fifth card in each hand (the last row). The exchange is not mandatory.
+During each turn, a player draws a card from the deck and strategically places it within their hand, aiming to form a strong poker hand. The potential combinations include high card, pair, two pairs, three of a kind, straight, flush, full house, four of a kind, straight flush, and royal flush. However, it is important to note that the new card cannot be assigned to every hand. The initial card is placed in the first row, and subsequent cards can be positioned in the second row, followed by the third row, and so on.
 
-The best of 5 hands wins the game.
+To add an element of suspense, the fifth card in each player's hand is positioned face down, preventing the opponents from observing each other's final card. At the conclusion of the game, both players receive one additional card, which can be exchanged with any of the fifth cards in their respective hands (located in the last row). However, this exchange is not obligatory.
+
+The ultimate victor of the game is determined by the player who secures the highest number of victories in five hands.
 
 # Screenshots
 
